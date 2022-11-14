@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @MicahWallace
 
-I am an Information Technology Professional with a love for Family, life, computer security and Flying!
+I am an Information Technology Professional with a love for Family, Life, Computer Security and Flying!
 
 - 📫 How to reach me
   -  Check out my website www.micahwallace.ca
