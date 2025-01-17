@@ -1,11 +1,11 @@
 ### 👋 Hi, I’m @MicahWallace
 
-I am an Information Technology Professional with a love for Family, Life, Computer Security and Flying!
+I am a Cyber Security Professional with a focus on Identity Management and a love for Family, Life, Computer Security and Aviation!
 
 - 📫 How to reach me
-  -  Check out my website www.micahwallace.ca
+  -  Check out my website [www.micahwallace.ca](https://www.micahwallace.ca)
   -  Look me up on [LinkedIn](https://ca.linkedin.com/in/wallacemicah)
-  -  Follow me on Twitter [@WallaceMicah](https://twitter.com/WallaceMicah)
+  -  Follow me on X/Twitter [@WallaceMicah](https://twitter.com/WallaceMicah)
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
